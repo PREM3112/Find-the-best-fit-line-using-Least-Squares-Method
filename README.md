@@ -1,4 +1,6 @@
 # Implementation of Univariate Linear Regression
+## PREM.R
+## 212223240124
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
